@@ -35,7 +35,7 @@ script = ExtResource( 4 )
 content_id = "res://course/lesson-21-strings/content-DpPwQDwf.tres"
 title = "What are strings"
 type = 0
-text = "A [code]String[/code] is a value type which holds text. To create a [code]String[/code], you write text wrapped in quotation marks ([code]\"\"[/code]). For example: [code]\"This is a text string.\"[/code]
+text = "A [code]String[/code] is a value type which holds text. To create a [code]String[/code], you write text wrapped in quotation marks (\"\"). For example: \"[code]This is a text string.[/code]\"
 
 The quotation marks differentiate strings from other value types and function names.
 
